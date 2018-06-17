@@ -1,0 +1,189 @@
+1529239156a:1:{s:10:"header.htm";a:6:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:4734:"description = "Đầu trang"
+==
+
+<div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between">
+    <!-- Classy Menu -->
+    <nav class="classy-navbar" id="essenceNav">
+        <!-- Logo -->
+        <a class="nav-brand" href="index"><img src="{{ 'assets/img/core-img/logo.png'|theme }}" alt=""></a>
+        <!-- Navbar Toggler -->
+        <div class="classy-navbar-toggler">
+            <span class="navbarToggler"><span></span><span></span><span></span></span>
+        </div>
+        <!-- Menu -->
+        <div class="classy-menu">
+            <!-- close btn -->
+            <div class="classycloseIcon">
+                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+            </div>
+            <!-- Nav Start -->
+            <div class="classynav">
+                <ul>
+                    <li><a href="#">Shop</a>
+                        <div class="megamenu">
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Women's Collection</li>
+                                <li><a href="shop">Dresses</a></li>
+                                <li><a href="shop">Blouses &amp; Shirts</a></li>
+                                <li><a href="shop">T-shirts</a></li>
+                                <li><a href="shop">Rompers</a></li>
+                                <li><a href="shop">Bras &amp; Panties</a></li>
+                            </ul>
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Men's Collection</li>
+                                <li><a href="shop">T-Shirts</a></li>
+                                <li><a href="shop">Polo</a></li>
+                                <li><a href="shop">Shirts</a></li>
+                                <li><a href="shop">Jackets</a></li>
+                                <li><a href="shop">Trench</a></li>
+                            </ul>
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Kid's Collection</li>
+                                <li><a href="shop">Dresses</a></li>
+                                <li><a href="shop">Shirts</a></li>
+                                <li><a href="shop">T-shirts</a></li>
+                                <li><a href="shop">Jackets</a></li>
+                                <li><a href="shop">Trench</a></li>
+                            </ul>
+                            <div class="single-mega cn-col-4">
+                                <img src="{{ 'assets/img/bg-img/bg-6.jpg'|theme }}" alt="">
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">Pages</a>
+                        <ul class="dropdown">
+                            <li><a href="">Home</a></li>
+                            <li><a href="shop">Shop</a></li>
+                            <li><a href="product_details">Product Details</a></li>
+                            <li><a href="checkout">Checkout</a></li>
+                            <li><a href="blog">Blog</a></li>
+                            <li><a href="blog_detail">Single Blog</a></li>
+                            <li><a href="regular">Regular Page</a></li>
+                            <li><a href="contact">Contact</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="contact">Contact</a></li>
+                </ul>
+            </div>
+            <!-- Nav End -->
+        </div>
+    </nav>
+
+    <!-- Header Meta Data -->
+    <div class="header-meta d-flex clearfix justify-content-end">
+        <!-- Search Area -->
+        <div class="search-area">
+            <form action="#" method="post">
+                <input type="search" name="search" id="headerSearch" placeholder="Type for search">
+                <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+            </form>
+        </div>
+        <!-- Favourite Area -->
+        <div class="favourite-area">
+            <a href="#"><img src="{{ 'assets/img/core-img/heart.svg'|theme }}" alt=""></a>
+        </div>
+        <!-- User Login Info -->
+        <div class="user-login-info">
+            <a href="#"><img src="{{ 'assets/img/core-img/user.svg'|theme }}" alt=""></a>
+        </div>
+        <!-- Cart Area -->
+        <div class="cart-area">
+            <a href="#" id="essenceCartBtn"><img src="{{ 'assets/img/core-img/bag.svg'|theme }}" alt=""> <span>3</span></a>
+        </div>
+    </div>
+
+</div>
+";s:5:"mtime";i:1529020127;s:6:"markup";s:4696:"<div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between">
+    <!-- Classy Menu -->
+    <nav class="classy-navbar" id="essenceNav">
+        <!-- Logo -->
+        <a class="nav-brand" href="index"><img src="{{ 'assets/img/core-img/logo.png'|theme }}" alt=""></a>
+        <!-- Navbar Toggler -->
+        <div class="classy-navbar-toggler">
+            <span class="navbarToggler"><span></span><span></span><span></span></span>
+        </div>
+        <!-- Menu -->
+        <div class="classy-menu">
+            <!-- close btn -->
+            <div class="classycloseIcon">
+                <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+            </div>
+            <!-- Nav Start -->
+            <div class="classynav">
+                <ul>
+                    <li><a href="#">Shop</a>
+                        <div class="megamenu">
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Women's Collection</li>
+                                <li><a href="shop">Dresses</a></li>
+                                <li><a href="shop">Blouses &amp; Shirts</a></li>
+                                <li><a href="shop">T-shirts</a></li>
+                                <li><a href="shop">Rompers</a></li>
+                                <li><a href="shop">Bras &amp; Panties</a></li>
+                            </ul>
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Men's Collection</li>
+                                <li><a href="shop">T-Shirts</a></li>
+                                <li><a href="shop">Polo</a></li>
+                                <li><a href="shop">Shirts</a></li>
+                                <li><a href="shop">Jackets</a></li>
+                                <li><a href="shop">Trench</a></li>
+                            </ul>
+                            <ul class="single-mega cn-col-4">
+                                <li class="title">Kid's Collection</li>
+                                <li><a href="shop">Dresses</a></li>
+                                <li><a href="shop">Shirts</a></li>
+                                <li><a href="shop">T-shirts</a></li>
+                                <li><a href="shop">Jackets</a></li>
+                                <li><a href="shop">Trench</a></li>
+                            </ul>
+                            <div class="single-mega cn-col-4">
+                                <img src="{{ 'assets/img/bg-img/bg-6.jpg'|theme }}" alt="">
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">Pages</a>
+                        <ul class="dropdown">
+                            <li><a href="">Home</a></li>
+                            <li><a href="shop">Shop</a></li>
+                            <li><a href="product_details">Product Details</a></li>
+                            <li><a href="checkout">Checkout</a></li>
+                            <li><a href="blog">Blog</a></li>
+                            <li><a href="blog_detail">Single Blog</a></li>
+                            <li><a href="regular">Regular Page</a></li>
+                            <li><a href="contact">Contact</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="contact">Contact</a></li>
+                </ul>
+            </div>
+            <!-- Nav End -->
+        </div>
+    </nav>
+
+    <!-- Header Meta Data -->
+    <div class="header-meta d-flex clearfix justify-content-end">
+        <!-- Search Area -->
+        <div class="search-area">
+            <form action="#" method="post">
+                <input type="search" name="search" id="headerSearch" placeholder="Type for search">
+                <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+            </form>
+        </div>
+        <!-- Favourite Area -->
+        <div class="favourite-area">
+            <a href="#"><img src="{{ 'assets/img/core-img/heart.svg'|theme }}" alt=""></a>
+        </div>
+        <!-- User Login Info -->
+        <div class="user-login-info">
+            <a href="#"><img src="{{ 'assets/img/core-img/user.svg'|theme }}" alt=""></a>
+        </div>
+        <!-- Cart Area -->
+        <div class="cart-area">
+            <a href="#" id="essenceCartBtn"><img src="{{ 'assets/img/core-img/bag.svg'|theme }}" alt=""> <span>3</span></a>
+        </div>
+    </div>
+
+</div>";s:4:"code";N;s:11:"description";s:12:"Đầu trang";}}

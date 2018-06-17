@@ -1,0 +1,51 @@
+fields:
+    active:
+        label: Active
+        span: full
+        type: switch
+    name:
+        label: Name
+        span: auto
+        type: text
+    url:
+        label: URL
+        span: auto
+        type: text
+tabs:
+    fields:
+        code:
+            label: Code
+            span: auto
+            type: text
+            tab: Setting
+        description_preview:
+            label: 'Preview text'
+            span: auto
+            type: text
+            tab: Description
+        description:
+            label: Desctiption
+            size: ''
+            span: full
+            type: textarea
+            tab: Description
+        image_preview:
+            label: 'Image preview'
+            mode: file
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: fileupload
+            tab: Image
+        image_gallery:
+            label: 'Image (gallery)'
+            span: auto
+            mode: file
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            type: fileupload
+            tab: Image

@@ -1,0 +1,53 @@
+1529239156a:1:{s:15:"brands_area.htm";a:6:{s:8:"fileName";s:15:"brands_area.htm";s:7:"content";s:1104:"description = "Đối tác"
+==
+<div class="brands-area d-flex align-items-center justify-content-between">
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand1.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand2.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand3.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand4.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand5.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand6.png'|theme }}" alt="">
+        </div>
+    </div>";s:5:"mtime";i:1528988446;s:6:"markup";s:1071:"<div class="brands-area d-flex align-items-center justify-content-between">
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand1.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand2.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand3.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand4.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand5.png'|theme }}" alt="">
+        </div>
+        <!-- Brand Logo -->
+        <div class="single-brands-logo">
+            <img src="{{ 'assets/img/core-img/brand6.png'|theme }}" alt="">
+        </div>
+    </div>";s:4:"code";N;s:11:"description";s:11:"Đối tác";}}

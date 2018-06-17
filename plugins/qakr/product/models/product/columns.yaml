@@ -1,0 +1,38 @@
+columns:
+    id:
+        label: Iid
+        type: number
+        searchable: true
+        sortable: true
+    active:
+        label: Active
+        type: text
+        searchable: false
+        sortable: true
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    category:
+        label: Category
+        type: text
+        searchable: true
+        sortable: true
+    brand:
+        label: Brand
+        type: text
+        searchable: true
+        sortable: true
+    code:
+        label: Code
+        type: text
+        searchable: true
+        sortable: false
+    description:
+        label: Description
+        type: text
+        searchable: true
+    image_preview:
+        label: image_gallery
+        type: text

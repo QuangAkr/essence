@@ -1,0 +1,30 @@
+columns:
+    id:
+        label: Id
+        type: number
+        searchable: true
+        sortable: true
+    name:
+        label: Name
+        type: text
+        searchable: true
+        sortable: true
+    image_preview:
+        label: Image
+        type: text
+    active:
+        label: Active
+        type: text
+        sortable: true
+    category:
+        label: category
+        type: text
+    code:
+        label: code
+        type: text
+    description:
+        label: description
+        type: text
+    image_gallery:
+        label: image_gallery
+        type: text

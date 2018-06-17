@@ -1,0 +1,10 @@
+name: Category
+form: $/qakr/product/models/category/fields.yaml
+modelClass: Qakr\Product\Models\Category
+defaultRedirect: qakr/product/category
+create:
+    redirect: 'qakr/product/category/update/:id'
+    redirectClose: qakr/product/category
+update:
+    redirect: qakr/product/category
+    redirectClose: qakr/product/category

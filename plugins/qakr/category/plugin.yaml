@@ -1,0 +1,6 @@
+plugin:
+    name: 'qakr.category::lang.plugin.name'
+    description: 'qakr.category::lang.plugin.description'
+    author: QAkr
+    icon: oc-icon-adjust
+    homepage: ''

@@ -1,0 +1,16 @@
+plugin:
+    name: 'qakr.product::lang.plugin.name'
+    description: 'qakr.product::lang.plugin.description'
+    author: QAkr
+    icon: oc-icon-coffee
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Product
+        url: qakr/product/product
+        icon: icon-github-alt
+        sideMenu:
+            side-menu-item:
+                label: 'Menu Item'
+                url: qakr/product/category
+                icon: icon-sitemap

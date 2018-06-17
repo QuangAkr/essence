@@ -1,0 +1,69 @@
+fields:
+    active:
+        label: Active
+        span: full
+        type: switch
+    name:
+        label: Name
+        span: auto
+        type: text
+    url:
+        label: Url
+        span: auto
+        type: text
+tabs:
+    fields:
+        category:
+            label: Category
+            span: auto
+            type: text
+            tab: Setting
+        brand:
+            label: Brand
+            span: auto
+            type: text
+            tab: Setting
+        code:
+            label: Code
+            span: auto
+            type: text
+            tab: Setting
+        slug:
+            label: Slug
+            span: auto
+            preset:
+                field: name
+                type: slug
+            type: text
+            tab: Setting
+        description_preview:
+            label: 'Preview text'
+            span: full
+            type: text
+            tab: Description
+        description:
+            label: Description
+            size: ''
+            span: full
+            type: textarea
+            tab: Description
+        image_preview:
+            label: 'Image preview'
+            mode: image
+            useCaption: true
+            thumbOptions:
+                mode: auto
+                extension: auto
+            span: auto
+            type: fileupload
+            tab: Image
+        image_gallery:
+            label: 'Image (gallery)'
+            mode: image
+            useCaption: true
+            thumbOptions:
+                mode: crop
+                extension: auto
+            span: auto
+            type: fileupload
+            tab: Image

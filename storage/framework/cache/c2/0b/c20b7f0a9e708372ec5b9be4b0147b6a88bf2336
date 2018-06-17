@@ -1,0 +1,44 @@
+1529239155a:1:{s:11:"contact.htm";a:9:{s:8:"fileName";s:11:"contact.htm";s:7:"content";s:901:"title = "Contact"
+url = "/contact"
+layout = "default"
+is_hidden = 0
+==
+<div class="contact-area d-flex align-items-center">
+
+    <div class="google-map">
+        <div id="googleMap"></div>
+    </div>
+
+    <div class="contact-info">
+        <h2>How to Find Us</h2>
+        <p>Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.</p>
+
+        <div class="contact-address mt-50">
+            <p><span>address:</span> 10 Suffolk st Soho, London, UK</p>
+            <p><span>telephone:</span> +12 34 567 890</p>
+            <p><a href="mailto:contact@essence.com">contact@essence.com</a></p>
+        </div>
+    </div>
+
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s"></script>
+<script src="{{ 'assets/js/map-active.js'|theme }}"></script>";s:5:"mtime";i:1528991944;s:6:"markup";s:825:"<div class="contact-area d-flex align-items-center">
+
+    <div class="google-map">
+        <div id="googleMap"></div>
+    </div>
+
+    <div class="contact-info">
+        <h2>How to Find Us</h2>
+        <p>Mauris viverra cursus ante laoreet eleifend. Donec vel fringilla ante. Aenean finibus velit id urna vehicula, nec maximus est sollicitudin.</p>
+
+        <div class="contact-address mt-50">
+            <p><span>address:</span> 10 Suffolk st Soho, London, UK</p>
+            <p><span>telephone:</span> +12 34 567 890</p>
+            <p><a href="mailto:contact@essence.com">contact@essence.com</a></p>
+        </div>
+    </div>
+
+</div>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwuyLRa1uKNtbgx6xAJVmWy-zADgegA2s"></script>
+<script src="{{ 'assets/js/map-active.js'|theme }}"></script>";s:4:"code";N;s:5:"title";s:7:"Contact";s:3:"url";s:8:"/contact";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}

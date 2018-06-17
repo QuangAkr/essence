@@ -1,0 +1,4 @@
+title: Product
+modelClass: Qakr\Product\Models\Product
+toolbar:
+    buttons: reorder_toolbar

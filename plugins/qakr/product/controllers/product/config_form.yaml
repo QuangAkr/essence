@@ -1,0 +1,10 @@
+name: Product
+form: $/qakr/product/models/product/fields.yaml
+modelClass: Qakr\Product\Models\Product
+defaultRedirect: qakr/product/product
+create:
+    redirect: 'qakr/product/product/update/:id'
+    redirectClose: qakr/product/product
+update:
+    redirect: qakr/product/product
+    redirectClose: qakr/product/product

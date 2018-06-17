@@ -1,0 +1,122 @@
+1529239156a:1:{s:11:"default.htm";a:6:{s:8:"fileName";s:11:"default.htm";s:7:"content";s:2016:"==
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title  -->
+    <title>Essence - Fashion Ecommerce Template</title>
+
+    <!-- Favicon  -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Core Style CSS -->
+    <link rel="stylesheet" href="{{ 'assets/css/core-style.css'|theme }}">
+    <link rel="stylesheet" href="{{ 'assets/css/style.css'|theme }}">
+
+</head>
+
+<body>
+    <!-- ##### Header Area Start ##### -->
+    <header class="header_area">
+        {% partial 'header' %}
+    </header>
+    <!-- ##### Header Area End ##### -->
+    
+    <!-- ##### Right Side Cart Area ##### -->
+        {% partial 'right_side' %}
+    <!-- ##### Right Side Cart End ##### -->
+    
+        {% page %}
+        
+    <!-- ##### Brands Area Start ##### -->
+        {% partial 'brands_area' %}
+    <!-- ##### Brands Area End ##### -->
+    
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer_area clearfix">
+        {% partial 'footer' %}
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- jQuery (Necessary for All JavaScript Plugins) -->
+    <script src="{{ 'assets/js/jquery/jquery-2.2.4.min.js'|theme }}"></script>
+    <!-- Popper js -->
+    <script src="{{ 'assets/js/popper.min.js'|theme }}"></script>
+    <!-- Bootstrap js -->
+    <script src="{{ 'assets/js/bootstrap.min.js'|theme }}"></script>
+    <!-- Plugins js -->
+    <script src="{{ 'assets/js/plugins.js'|theme }}"></script>
+    <!-- Classy Nav js -->
+    <script src="{{ 'assets/js/classy-nav.min.js'|theme }}"></script>
+    <!-- Active js -->
+    <script src="{{ 'assets/js/active.js'|theme }}"></script>
+
+</body>
+
+</html>";s:5:"mtime";i:1528988441;s:6:"markup";s:2012:"<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+    <!-- Title  -->
+    <title>Essence - Fashion Ecommerce Template</title>
+
+    <!-- Favicon  -->
+    <link rel="icon" href="img/core-img/favicon.ico">
+
+    <!-- Core Style CSS -->
+    <link rel="stylesheet" href="{{ 'assets/css/core-style.css'|theme }}">
+    <link rel="stylesheet" href="{{ 'assets/css/style.css'|theme }}">
+
+</head>
+
+<body>
+    <!-- ##### Header Area Start ##### -->
+    <header class="header_area">
+        {% partial 'header' %}
+    </header>
+    <!-- ##### Header Area End ##### -->
+    
+    <!-- ##### Right Side Cart Area ##### -->
+        {% partial 'right_side' %}
+    <!-- ##### Right Side Cart End ##### -->
+    
+        {% page %}
+        
+    <!-- ##### Brands Area Start ##### -->
+        {% partial 'brands_area' %}
+    <!-- ##### Brands Area End ##### -->
+    
+    <!-- ##### Footer Area Start ##### -->
+    <footer class="footer_area clearfix">
+        {% partial 'footer' %}
+    </footer>
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- jQuery (Necessary for All JavaScript Plugins) -->
+    <script src="{{ 'assets/js/jquery/jquery-2.2.4.min.js'|theme }}"></script>
+    <!-- Popper js -->
+    <script src="{{ 'assets/js/popper.min.js'|theme }}"></script>
+    <!-- Bootstrap js -->
+    <script src="{{ 'assets/js/bootstrap.min.js'|theme }}"></script>
+    <!-- Plugins js -->
+    <script src="{{ 'assets/js/plugins.js'|theme }}"></script>
+    <!-- Classy Nav js -->
+    <script src="{{ 'assets/js/classy-nav.min.js'|theme }}"></script>
+    <!-- Active js -->
+    <script src="{{ 'assets/js/active.js'|theme }}"></script>
+
+</body>
+
+</html>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}
